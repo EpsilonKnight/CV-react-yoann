@@ -32,11 +32,11 @@ const Contact = () => {
                 </div>
                 <div className="socialNetwork">
                     <ul>
-                     <a href="http://www.google.com" target="_blank" rel='noopener noreferrer'>
+                     <a href="https://www.linkedin.com/in/yoann-jeanrat-192887264/" target="_blank" rel='noopener noreferrer'>
                         <h4>LinkedIn</h4>
                         <i className='fab fa-linkedin'></i>
                         </a>   
-                     <a href="http://www.google.com" target="_blank" rel='noopener noreferrer'>
+                     <a href="https://github.com/EpsilonKnight" target="_blank" rel='noopener noreferrer'>
                         <h4>GitHub</h4>
                         <i className='fab fa-github'></i>
                         </a>   
