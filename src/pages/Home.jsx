@@ -15,6 +15,7 @@ const Home = () => {
                 <a href="./media/CV.pdf">Télécharger mon CV</a>  
                 </div>
                
+               
                 
                </div>
             </div>
