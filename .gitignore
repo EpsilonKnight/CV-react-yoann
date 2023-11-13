@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 public/media
-src/data
+src/data/
 src/pages/Contact.jsx
