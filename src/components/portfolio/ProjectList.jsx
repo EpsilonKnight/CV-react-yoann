@@ -7,8 +7,7 @@ class ProjectList extends Component {
     projects: portfolioData,
     radios: [
       {id:1 , value: 'projets'},
-      {id:2 , value: 'javascript'},
-      {id:3 , value: 'css'},
+      {id:2 , value: 'JS'},
       {id:4 , value: 'react'},
       {id:5 , value: 'laravel'},
       {id:6 , value: 'symfony'}
